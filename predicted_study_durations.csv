@@ -1,0 +1,207 @@
+Conditions,Primary Outcome Measures_BioBert Labels,Predicted Study Duration (days),Actual Study Duration (days)
+Malignant Neoplasm of Breast,1.0,12.96982,542.0
+Non-small Cell Lung Cancer,1.0,1903.5227,1619.0
+Non-Small Cell Lung Cancer (NSCLC),1.0,432.0591,1606.0
+Gastrointestinal Neoplasms|Chemotherapy-induced Nausea and Vomiting,1.0,1033.3342,1763.0
+Head and Neck Cancer,1.0,1127.594,956.0
+Anogenital Human Papilloma Virus Infection|Condyloma Acuminata,0.0,5.7072415,1525.0
+HER2+ Metastatic Breast Cancer (MBC),1.0,990.4227,2446.0
+Abdominal Cancer,1.0,94.97327,568.0
+Relapsed Multiple Myeloma|Refractory Multiple Myeloma,1.0,915.1135,1767.0
+"Arthritis, Psoriatic",1.0,12.770819,816.0
+Waldenström's Macroglobulinemia,1.0,111.94707,1949.0
+Anemia|Myelodysplastic Syndrome,1.0,241.74281,1708.0
+Desmoid Fibromatosis,1.0,100.59399,3177.0
+HepatoCellular Carcinoma,1.0,1104.7954,1519.0
+Small-cell Lung Cancer,1.0,376.1894,365.0
+Gastric Adenocarcinoma,1.0,640.5238,1310.0
+Bone Metastases in Men With Hormone-Refractory Prostate Cancer|Bone Metastases in Subjects With Advanced Breast Cancer,1.0,6.4070683,2453.0
+Non-squamous Non-small-cell Lung Cancer,1.0,242.44864,1000.0
+Non-small Cell Lung Cancer,1.0,208.22305,751.0
+Breast Cancer,1.0,1000.50305,1455.0
+Chronic Lymphocytic Leukemia (CLL)|Small Lymphocytic Lymphoma (SLL),1.0,1571.2275,1795.0
+Non-small Cell Lung Cancer,1.0,964.6749,2240.0
+Hematopoietic and Lymphoid Cell Neoplasm,1.0,5.7072415,1158.0
+Breast Cancer,1.0,1254.5043,2446.0
+Gastric Neoplasm|Early Gastric Cancer,1.0,403.82288,1117.0
+Metastatic Triple Negative Breast Cancer,1.0,1714.4197,1855.0
+"Secondary Hyperparathyroidism, Chronic Kidney Disease",1.0,337.06085,644.0
+Chronic Lymphocytic Leukemia (CLL),1.0,40.804367,1842.0
+Squamous NSCLC,1.0,1458.9591,1098.0
+Lentigo Maligna,1.0,955.4043,2768.0
+Cancer Malignancies,1.0,5.7072415,1533.0
+Multiple Myeloma,1.0,1419.4073,2696.0
+Bladder Cancer|Bladder Tumor|Muscle-Invasive Bladder Cancer,0.0,60.73594,1218.0
+Prostatic Neoplasms|Prostate Cancer|Recurrence,0.0,5.7072415,784.0
+Metastatic Breast Cancer,0.0,1265.094,1912.0
+Advanced Esophageal Cancer,1.0,1358.3927,1244.0
+Secondary Progressive Multiple Sclerosis,1.0,1147.4337,455.0
+Spinal Metastases,1.0,916.2741,1318.0
+Non-Small Cell Lung Cancer,1.0,2004.0414,2057.0
+Amyloidosis Cardiac,1.0,1316.9319,1009.0
+Melanoma,1.0,1626.8345,2105.0
+Multiple Myeloma,1.0,797.4175,2188.0
+Hodgkin Lymphoma,1.0,55.590797,2992.0
+Gastric Cancer|Gastric Adenocarcinoma,1.0,1577.5425,1289.0
+Prostate Cancer|Neuromuscular Blockade,1.0,155.56638,437.0
+Prostate Cancer,1.0,425.32538,2191.0
+"Leukemia, Myeloid|Isocitrate Dehydrogenase",1.0,112.73348,3008.0
+Leukaemia,1.0,389.54443,2202.0
+Non-squamous Non-small Cell Lung Cancer,1.0,1304.3269,1970.0
+Osteoarthritis|Cancer Pain|Recurrent Low Back Pain,0.0,5.7072415,944.0
+Non-squamous Non-small Cell Lung Cancer,1.0,1248.0244,472.0
+Vincristine Induced Neurotoxicity|Acute Lymphoblastic Leukaemia,1.0,5.7072415,366.0
+Acute Myeloid Leukemia|Hematopoietic Stem Cell Transplantation,1.0,2313.996,1512.0
+HPV Infections|Cervical Cancer|Vulvar Cancer|Vaginal Cancer|CIN1|CIN2|CIN3|VaIN1|VaIN2|VaIN3|Genital Wart|VIN 1|VIN 2|VIN 3|AIS,1.0,496.07477,636.0
+Renal Cell Cancer,1.0,748.5182,3017.0
+Gastrointestinal Stromal Tumors,1.0,2115.3008,3023.0
+Generalized Myasthenia Gravis,1.0,209.69333,876.0
+Ovarian Cancer,1.0,23.599665,994.0
+Dupuytren Contracture|Dupuytren's Disease,1.0,5.7072415,872.0
+"Carcinoma, Non-Small-Cell Lung",1.0,418.70374,1967.0
+Non Small Cell Lung Cancer (NSCLC),1.0,28.195822,2737.0
+Polycystic Ovary Syndrome,1.0,26.800875,121.0
+Cervical Intraepithelial Neoplasia|Cervical Cancer|Vaginal Intraepithelial Neoplasia|Vulvar Intraepithelial Neoplasia|Persistent Infection,1.0,46.1847,2521.0
+Nasopharyngeal Neoplasms,1.0,2386.8354,2356.0
+Esophageal Cancer,1.0,690.0978,2782.0
+Colorectal Adenomas,1.0,5.7072415,1369.0
+Triple Negative Breast Cancer,1.0,1976.0308,2416.0
+Urothelial Carcinoma,0.0,2015.6465,2783.0
+"Myasthenia Gravis, Generalized",1.0,91.00042,697.0
+Nasal Polyposis,1.0,5.7072415,928.0
+Macular Edema Secondary to Branch Retinal Vein Occlusion,1.0,5.7072415,867.0
+Gastric Cancer,1.0,735.82733,1402.0
+Melanoma,1.0,5.7072415,1093.0
+Anal Intraepithelial Neoplasia|High-grade Squamous Intraepithelial Lesion|HIV Infection,1.0,302.65457,3042.0
+Acute Myeloid Leukemia,1.0,1361.7666,1173.0
+Acute Myeloid Leukemia|Myelodysplastic Syndrome|Chronic Myelomonocytic Leukemia,0.0,231.02365,564.0
+Breast Cancer,1.0,2664.3896,2449.0
+"Advanced, Metastatic Breast Cancer",1.0,1989.0203,3376.0
+Follicular Lymphoma,1.0,1081.7844,4506.0
+Prevention of Venous Thromboembolism,1.0,69.43078,1587.0
+Advanced Metastatic Breast Cancer,1.0,792.8947,3073.0
+Head and Neck Cancer,1.0,1775.1975,2178.0
+Gastrointestinal Stromal Tumors,1.0,863.71936,1534.0
+Prostate Adenocarcinoma,1.0,11.414957,813.0
+Recurrent Glioblastoma,1.0,672.8255,2051.0
+Breast Cancer,1.0,1719.6276,1936.0
+Non-Hodgkin Lymphoma,1.0,1253.2432,1722.0
+Recurrent or Metastatic Head and Neck Carcinoma,1.0,1662.5951,1673.0
+Crohn's Disease,1.0,76.82308,851.0
+Bladder Cancer|Urothelial Carcinoma|Urothelial Carcinoma Bladder,1.0,106.159615,1408.0
+Multiple Myeloma,0.0,5.7072415,1770.0
+Colorectal Neoplasms,1.0,430.10233,700.0
+Metastatic Colorectal Cancer,1.0,961.6141,1745.0
+Pediatric Central Nervous System Tumor,0.0,5.7072415,1295.0
+"Carcinoma, Hepatocellular",1.0,1278.1384,1088.0
+Relapsed and Refractory Multiple Myeloma,0.0,1129.0979,1526.0
+Rectal Cancer,1.0,34.126575,1142.0
+Non-squamous Non-small Cell Lung Cancer,1.0,33.808388,1315.0
+Sentinel Lymph Node|Melanoma (Skin)|Breast Cancer,1.0,6.0208683,1483.0
+Actinic Keratoses,1.0,273.6616,555.0
+Non-small Cell Lung Cancer(NSCLC),1.0,673.8172,1239.0
+Visual Impairment Due to Choroidal Neovascularization (CNV) Secondary to Pathologic Myopia (PM),1.0,5.7072415,1099.0
+Abdominal Pain|Abdominal Cancer,1.0,394.46777,699.0
+Non-small Cell Lung Cancer,1.0,1677.9153,1135.0
+Gastric Cancer|Obesity,1.0,520.4582,1065.0
+Biliary Tract Cancer,1.0,241.80246,251.0
+Breast Cancer,1.0,1404.0701,1738.0
+Hematopoietic Stem Cell Transplantation|Haplo-identical Donor|Cord Blood Unit|Acute Myeloid Leukemia,1.0,925.7553,2129.0
+Non-Small Cell Lung Cancer,1.0,1071.0835,3787.0
+Diffuse Large B-cell Lymphoma|de Novo DLBCL|DLBCL Transformed From Indolent Lymphoma|Follicular Grade 3 Lymphoma,1.0,1993.487,2704.0
+Upper Extremity Deep Vein Thrombosis|Central Venous Catheter Thrombosis|Cancer,1.0,92.863846,457.0
+Pancreatic Cancer|Carcinoma,1.0,692.71814,2894.0
+Endometrial Neoplasm Malignant Stage I,1.0,5.7072415,1080.0
+Prostate Cancer,1.0,798.30383,518.0
+Neuroendocrine Tumors|Liver Metastases,1.0,5.7072415,1492.0
+Chronic Lymphocytic Leukemia,1.0,10.947659,936.0
+Lymphoma,0.0,420.05737,3428.0
+Non-small Cell Lung Cancer,1.0,1405.5613,1445.0
+Acute Myeloid Leukemia|Adult Acute Monoblastic Leukemia|Adult Acute Monocytic Leukemia|Adult Acute Myeloid Leukemia in Remission|Adult Acute Myeloid Leukemia With Inv(16)(p13.1q22); CBFB-MYH11|Adult Acute Myeloid Leukemia With Maturation|Adult Acute Myeloid Leukemia With Minimal Differentiation|Adult Acute Myeloid Leukemia With t(16;16)(p13.1;q22); CBFB-MYH11|Adult Acute Myeloid Leukemia With t(8;21); (q22; q22.1); RUNX1-RUNX1T1|Adult Acute Myeloid Leukemia With t(9;11)(p22.3;q23.3); MLLT3-KMT2A|Adult Acute Myeloid Leukemia Without Maturation|Adult Acute Myelomonocytic Leukemia|Alkylating Agent-Related Acute Myeloid Leukemia|Childhood Acute Monoblastic Leukemia|Childhood Acute Monocytic Leukemia|Childhood Acute Myeloid Leukemia in Remission|Childhood Acute Myeloid Leukemia With Maturation|Childhood Acute Myeloid Leukemia With Minimal Differentiation|Childhood Acute Myeloid Leukemia Without Maturation|Childhood Acute Myelomonocytic Leukemia|Fungal Infection|Myeloid Neoplasm|Neutropenia|Recurrent Adult Acute Myeloid Leukemia|Recurrent Childhood Acute Myeloid Leukemia|Secondary Acute Myeloid Leukemia|Untreated Adult Acute Myeloid Leukemia|Untreated Childhood Myeloid Neoplasm,1.0,6.309594,3375.0
+Chemotherapy-induced Nausea and Vomiting,1.0,5.7072415,591.0
+Breast Cancer,1.0,195.09335,775.0
+Stroke|Secondary Prevention,1.0,5.7072415,1356.0
+Breast Cancer Metastatic|Breast Cancer Recurrent|Breast Cancer Female,1.0,135.35268,1113.0
+"Keratosis, Actinic",0.0,5.7072415,183.0
+Pediatric Cancer|Quality of Life,1.0,5.7072415,814.0
+"Neoplasms, Breast",1.0,1646.0583,4050.0
+Non-small Cell Lung Cancer With EGFR-Activating Mutations,1.0,872.5584,3185.0
+Multiple Myeloma,1.0,1305.1611,774.0
+Prostatic Neoplasms,1.0,7.7900257,3602.0
+Chemotherapy-induced Thrombocytopenia,1.0,517.5431,1572.0
+Breast Cancer,1.0,5.7072415,1369.0
+"Myelodysplastic Syndromes|Leukemia, Myelomonocytic, Chronic",1.0,1960.1494,1417.0
+Prostatic Neoplasms|Prostate Cancer,1.0,5.7072415,808.0
+Rheumatoid Arthritis,0.0,5.7072415,884.0
+Metastatic Breast Cancer,1.0,1375.7563,1658.0
+Cachexia; Cancer|Non Small Cell Lung Cancer,1.0,1249.7368,1331.0
+Multiple Myeloma,1.0,923.7329,2268.0
+Prostate Cancer,1.0,27.72792,737.0
+HER2-positive Early Breast Cancer,1.0,669.5161,1399.0
+Lung Cancer,1.0,71.72501,364.0
+Lymphoma|Acute Lymphoblastic Leukemia,1.0,5.7072415,2085.0
+Acute Myeloid Leukemia|Untreated Adult Acute Myeloid Leukemia,1.0,224.90488,1584.0
+Prostatic Neoplasms,1.0,2412.0151,1538.0
+Psoriasis,1.0,5.7072415,1007.0
+Oropharynx Cancer,1.0,116.45949,1283.0
+Mucositis Oral,1.0,233.59213,204.0
+"Colitis, Ulcerative",1.0,1590.5999,2064.0
+Breast Cancer Female|Dysphagia|Adjuvant Radiotherapy,1.0,5.7072415,730.0
+Advanced Breast Cancer,1.0,2277.7378,2773.0
+Non-Small Cell Lung Cancer,0.0,1635.9629,1551.0
+Head and Neck Squamous Cell Cancer,0.0,187.68213,2828.0
+Breast Cancer,1.0,896.25684,1192.0
+"Carcinoma, Non-small Cell Lung",1.0,312.40457,1460.0
+Differentiated Thyroid Cancer (DTC),1.0,2458.66,1813.0
+Brain Metastasis|Non Small Cell Lung Cancer,1.0,1114.1079,1431.0
+Rectal Neoplasm Malignant,1.0,576.95245,2162.0
+Malignant Melanoma,1.0,2179.9624,2385.0
+Breast Cancer|Lymph Node Mapping|Sentinel Lymph Node Biopsy,1.0,5.7072415,633.0
+Lung Cancer|Lymph Node Metastasis,1.0,6.060394,574.0
+Metastatic Pancreatic Adenocarcinoma,1.0,1392.6539,1069.0
+Locally Advanced Cervical Cancer,1.0,1458.6633,1599.0
+Differentiated Thyroid Cancer,1.0,339.9965,663.0
+Newly Diagnosed Glioblastoma,1.0,1573.052,1800.0
+Axial and Peripheral Spondyloarthritis|Rheumatoid Arthritis,1.0,5.7072415,2497.0
+Neuroendocrine Tumors,1.0,5.7072415,489.0
+Acute Lymphoblastic Leukemia,1.0,1038.1809,1268.0
+Uterine Leiomyoma|Uterine Fibroids,1.0,283.79517,1100.0
+Unresectable or Metastatic Melanoma,1.0,1513.9714,2930.0
+Common Wart,1.0,5.7072415,316.0
+Verruca Viral,1.0,290.05768,456.0
+Cervical Dysplasia|Cervical High Grade Squamous Intraepithelial Lesion|HSIL,1.0,305.55627,1378.0
+Actinic Keratosis (AK),1.0,630.9234,506.0
+Cervical Cancer,1.0,1956.853,1348.0
+Breast Cancer,0.0,2400.595,2681.0
+Recurrent or Metastatic PD-L1-positive or -Negative Squamous Cell Carcinoma of the Head and Neck SCCHN,1.0,2412.125,1892.0
+Non-Germline BRCA Mutated Ovarian Cancer,1.0,2184.3025,1500.0
+Hematologic Malignancy,1.0,396.34683,1260.0
+Malignant Neoplasm,1.0,23.876904,1659.0
+Myelodysplastic Syndrome (MDS),1.0,1225.7092,1012.0
+Basal Cell Nevus Syndrome,1.0,125.46962,678.0
+Extensive-stage Small-cell Lung Cancer,1.0,1033.344,820.0
+Chronic Lymphocytic Leukemia|Small Lymphocytic Lymphoma,1.0,46.624706,4006.0
+Primary Myelofibrosis (PMF)|Post-polycythemia Vera (Post-PV)|Post-essential Thrombocythemia Myelofibrosis (Post-ET MF),1.0,1344.6909,1771.0
+Follicular Lymphoma,1.0,1031.7249,1395.0
+"Hyperparathyroidism, Primary",1.0,5.7072415,1713.0
+Breast Cancer|Neutropenia,1.0,5.7072415,693.0
+Squamous Cell Carcinoma of the Head and Neck,1.0,1387.8203,2045.0
+Gastric Cancer,1.0,1299.4524,1214.0
+Gastric Cancer|Gastroesophageal Junction Cancer|Esophageal Adenocarcinoma,0.0,575.06006,2794.0
+Anogenital Human Papilloma Virus Infection|Condyloma Acuminata,0.0,242.63553,992.0
+"Carcinoma, Non-Small-Cell Lung",0.0,1246.86,2228.0
+UC (Urothelial Cancer),1.0,1207.7977,944.0
+"Carcinoma, Non-Small-Cell Lung",1.0,1265.1038,1227.0
+Small Cell Lung Carcinoma,1.0,2293.2683,2221.0
+Tuberous Sclerosis Complex-associated Refractory Seizures,0.0,5.7072415,1640.0
+BRAF V600E-mutant Metastatic Colorectal Cancer,0.0,5.7072415,2219.0
+Multiple Myeloma,1.0,2261.501,2357.0
+Cervical Intraepithelial Neoplasia|Cervical Cancer|Vaginal Intraepithelial Neoplasia|Vulvar Intraepithelial Neoplasia|Persistent Infection,1.0,129.76418,251.0
+Multiple Myeloma,1.0,1158.2921,1215.0
+Early Breast Cancer,1.0,35.219814,1814.0
+Breast Cancer,1.0,1075.805,2191.0
+Breast Cancer,0.0,87.03873,1592.0
+Breast Cancer,1.0,9.612854,1685.0
+Advanced Breast Cancer Female,0.0,893.02985,1138.0
+Acute Myeloid Leukemia|Stem Cell Leukemia,1.0,482.77765,1064.0
+Neoplasms,1.0,5.7072415,1078.0
